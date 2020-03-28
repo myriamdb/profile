@@ -44,9 +44,10 @@ p{
   padding:10;
   color: black;
 }
+
 .container {
   padding: 150px;
-  background-image: url(/images/wall.jpg);
+  background-image: url(images/wall.jpg);
   background-size: cover;
   height: 100%;
 
